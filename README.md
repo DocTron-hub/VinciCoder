@@ -1,5 +1,9 @@
 # VinciCoder: Unifying Multimodal Code Generation via Coarse-to-fine Visual Reinforcement Learning
-[![🤗 Mode Collections](https://img.shields.io/badge/Model_Collections-HuggingFace-FFD21E.svg?logo=huggingface&logoColor=yellow)](https://huggingface.co/collections/DocTron-Hub/vincicoder) [![🤗 Dataset Collections](https://img.shields.io/badge/Dataset_Collections-HuggingFace-FFD21E.svg?logo=huggingface&logoColor=yellow)](https://huggingface.co/collections/DocTron-Hub/vincicoder-train-data)
+[![🤗 Mode Collections](https://img.shields.io/badge/Model_Collections-HuggingFace-FFD21E.svg?logo=huggingface&logoColor=yellow)](https://huggingface.co/collections/DocTron-Hub/vincicoder) [![🤗 Dataset Collections](https://img.shields.io/badge/Dataset_Collections-HuggingFace-FFD21E.svg?logo=huggingface&logoColor=yellow)](https://huggingface.co/collections/DocTron-Hub/vincicoder-train-data) [![📑 Paper (arXiv:2511.00391)](https://img.shields.io/badge/arXiv-2511.00391-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2511.00391)
+
+## Installation
+We recommand following the instruction in [ms-swift](https://github.com/modelscope/ms-swift?tab=readme-ov-file#%EF%B8%8F-installation) and [EasyR1](https://github.com/hiyouga/EasyR1?tab=readme-ov-file#installation) to install the environments.
+
 
 ## Dataset
 ![data_construct](fig/data_construct.png)
