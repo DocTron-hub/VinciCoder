@@ -22,7 +22,7 @@ The existing dataset are collected from the following works. We are very gratefu
 | Chart-to-code |  [ChartCoder](https://arxiv.org/abs/2501.06598), [MSRL](https://arxiv.org/abs/2508.13587), [VisCodex](https://www.arxiv.org/abs/2508.09945)  |
 | Web-to-HTML  |  [Web2Code](https://arxiv.org/abs/2406.20098), [Web2M](https://arxiv.org/abs/2404.06369),  [VisCodex](https://www.arxiv.org/abs/2508.09945)  |
 | Image-to-SVG | [UniSVG](https://arxiv.org/abs/2508.07766), [StarVector](https://arxiv.org/abs/2312.11556) |
-| Image-to-Latex | [DaTikZ](https://arxiv.org/abs/2503.11509) |
+| Image-to-Latex | [DaTikZ](https://arxiv.org/abs/2503.11509) | [MathCoder-VL](https://arxiv.org/abs/2505.10557) |
 | Others | [CoSyn](https://arxiv.org/abs/2502.14846) |
 
 ### RL Dataset
