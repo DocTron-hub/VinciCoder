@@ -47,14 +47,25 @@ For any questions, you can contact [2429527z@gmail.com](mailto:2429527z@gmail.co
 ## Citation
 If you find this work useful, consider giving this repository a star ⭐️ and citing 📝 our paper as follows:
 ```
-@misc{zhao2025vincicoderunifyingmultimodalcode,
-      title={VinciCoder: Unifying Multimodal Code Generation via Coarse-to-fine Visual Reinforcement Learning}, 
-      author={Xuanle Zhao and Deyang Jiang and Zhixiong Zeng and Lei Chen and Haibo Qiu and Jing Huang and Yufeng Zhong and Liming Zheng and Yilin Cao and Lin Ma},
-      year={2025},
-      eprint={2511.00391},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2511.00391}, 
+@article{zhao2025vincicoder,
+  title={VinciCoder: Unifying Multimodal Code Generation via Coarse-to-fine Visual Reinforcement Learning},
+  author={Zhao, Xuanle and Jiang, Deyang and Zeng, Zhixiong and Chen, Lei and Qiu, Haibo and Huang, Jing and Zhong, Yufeng and Zheng, Liming and Cao, Yilin and Ma, Lin},
+  journal={arXiv preprint arXiv:2511.00391},
+  year={2025}
+}
+
+@article{chen2025breaking,
+  title={Breaking the sft plateau: Multimodal structured reinforcement learning for chart-to-code generation},
+  author={Chen, Lei and Zhao, Xuanle and Zeng, Zhixiong and Huang, Jing and Zheng, Liming and Zhong, Yufeng and Ma, Lin},
+  journal={arXiv preprint arXiv:2508.13587},
+  year={2025}
+}
+
+@article{zhao2025chartcoder,
+  title={Chartcoder: Advancing multimodal large language model for chart-to-code generation},
+  author={Zhao, Xuanle and Luo, Xianzhen and Shi, Qi and Chen, Chi and Wang, Shuo and Liu, Zhiyuan and Sun, Maosong},
+  journal={arXiv preprint arXiv:2501.06598},
+  year={2025}
 }
 ```
 
